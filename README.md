@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="900" src="https://github.com/OriDango/banner/blob/main/%C2%A1Hola!%20Yo%20soy%20Rossemil%20Oriana.png">
+ <img align="right" alt="Coding" width="900" src="https://github.com/OriDango/OriDango/blob/main/%C2%A1Hola!%20Yo%20soy%20Rossemil%20Oriana.png">
 
 <div>
     <div align=center>
@@ -9,7 +9,7 @@
         <a href="mailto:orianamazo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
         <a href="https://t.me/Oridango"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="Telegram" /></a>
     </div>
-    <img align="right" alt="Coding" width="160" src="https://github.com/OriDango/banner/blob/main/AvatarOridango.gif">
+    <img align="right" alt="Coding" width="160" src="https://github.com/OriDango/OriDango/blob/main/AvatarOridango.gif">
        
 - 🌱 Actualmente estoy aprendiendo: **Java, Angular.**
 
