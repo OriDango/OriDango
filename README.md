@@ -2,7 +2,7 @@
 
 <div>
     <div align=center>
-       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Secular+One&pause=1000&color=961DF7&center=true&width=490&lines=T%C3%A9cnico+Superior+Universitario+en+Inform%C3%A1tica+%F0%9F%8E%93;Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=+Playfair+Display&pause=1000&color=D22BE6F1&center=true&width=500&lines=Ingeriera+en+Inform%C3%A1tica+%F0%9F%8E%93;Auditoria+de+Sistemas+Informaticos%F0%9F%93%93%F0%9F%93%9D;Developer+%F0%9F%92%BB;Ciberseguridad+%F0%9F%94%92%F0%9F%92%BE" alt="Typing SVG" /></a>
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/rossemilmazo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
